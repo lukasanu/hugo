@@ -1,0 +1,4 @@
+baseURL = 'https://lukasanu.github.io'
+languageCode = 'en-us'
+title = '4 Laboratorinis'
+theme = 'PaperMod'
